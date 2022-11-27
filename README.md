@@ -11,4 +11,5 @@ ios 相关项目的列表
 | [learn_ios_temp](https://github.com/xiaoliangg/learn_ios_temp) | 用于记录学习过程，包括:1.苹果官网的swiftui教程;2.核心注解示例 3.小功能使用前试用 | -
 | [PodTest01-自定义库](https://github.com/xiaoliangg/PodTest01)/[PodDemoUser-使用自定义库的客户端库](https://github.com/xiaoliangg/PodDemoUser) | pod自定义库测试,[参考博客](https://www.jianshu.com/p/a72a529dc659)、印象笔记 | -
 | [Redbook](https://github.com/xiaoliangg/Redbook) | swiftui-模拟小红书 | -
-| [SwiftUILocalizationOnTheFly](https://github.com/xiaoliangg/LocalizationOnTheFly) | SwiftUI 实现 app内切换语言本地化  | [SwiftUI: Localization on the Fly](https://medium.com/swlh/swiftui-localization-on-the-fly-2312fde49459)  
+| [SwiftUILocalizationOnTheFly](https://github.com/xiaoliangg/LocalizationOnTheFly) | SwiftUI 实现 app内切换语言本地化  | [SwiftUI: Localization on the Fly](https://medium.com/swlh/swiftui-localization-on-the-fly-2312fde49459)
+| [my-cloud-music-ios-oc3](https://github.com/xiaoliangg/my-cloud-music-ios-oc3) | 网易云音乐视频教程,自己跟着做的代码  | [iOS企业级项目实战我的云音乐OC](https://study.163.com/course/courseMain.htm?courseId=1212696801) ; [课程书籍](http://www.ixuea.com/b/54/index.html)
